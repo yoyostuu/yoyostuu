@@ -1,64 +1,232 @@
-# 👋 Hi, I'm Ananya Moharana  
+<div align="center">
 
-💻 CSE Student | Full-Stack Developer | Data & Analytics Enthusiast  
+# Hi, I'm Ananya Moharana 👋
 
-I enjoy building modern, data-driven web applications and interactive dashboards that turn complex data into meaningful insights. Passionate about UI/UX, scalable systems, and creating impactful digital experiences.  
+### AI/ML Engineer • Full-Stack Developer • Data Analyst
 
----
+Building intelligent applications powered by AI, scalable backend systems, and data-driven experiences.
 
-## 🚀 What I’m Working On
-- 📊 Analytics dashboards & visualization platforms  
-- 🌐 Full-stack web applications  
-- 🤖 AI-integrated productivity tools  
-- 🎨 Modern UI/UX focused experiences  
-- ⚙️ Backend systems & APIs  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Engineer;Data+Analytics" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Languages
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+I'm a Computer Science undergraduate passionate about solving real-world problems through software.
 
-### Frameworks & Technologies
-`Django` `Django REST Framework` `React.js` `Streamlit` `Bootstrap`
+I enjoy building products that combine
 
-### Tools & Platforms
-`Git` `GitHub` `MySQL` `PostgreSQL` `SQLite` `MinIO/S3`
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚡ Fast, scalable backend systems
+- 🌐 Modern full-stack web applications
+- 📊 Interactive analytics dashboards
+- 🧠 LLMs, RAG & Generative AI
 
-### Data & Visualization
-`Pandas` `NumPy` `Plotly` `Scikit-learn` `Recharts` `Leaflet`
-
----
-
-## 📌 Featured Projects
-### 📈 Plug-and-Play E-commerce Analytics
-Interactive analytics dashboard for tracking sales, revenue, KPIs, and customer insights using Streamlit, Plotly, and MySQL.
-
-### 💰 Personal Finance Tracker
-Finance management web application with expense tracking, budgeting, and financial goal management.
-
-### 🌊 Ocean Analysis System
-Hackathon Top 5 project focused on marine ecosystem monitoring, biodiversity tracking, and sustainable fisheries insights.
+Currently exploring advanced backend architecture, deep learning, and production-ready AI systems.
 
 ---
 
-## 🏆 Experience
-- 📊 Data Analytics Intern at Cognifyz Technologies  
-- 🎯 Organising Committee Volunteer — IIC Regional Meet 2025  
+# 🚀 Featured Projects
+
+## 🤖 AI Terms Checker
+
+**FastAPI • FAISS • Sentence Transformers • LLM • RAG**
+
+An AI-powered legal document analysis platform that extracts PDF content, retrieves relevant clauses using semantic search, and explains legal risks with LLMs.
+
+✨ Features
+
+- PDF Upload API
+- Semantic Search
+- FAISS Vector Database
+- FastAPI Backend
+- AI-powered Clause Analysis
+- Risk Classification
+- RAG Pipeline
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: http://www.linkedin.com/in/ananya-moharana
-- 🌐 Portfolio:https://yoyostuu.github.io/ana-portfolio/
+## 📊 Interactive Analytics Dashboard
+
+**Python • Streamlit • Plotly • **
+
+Built an interactive dashboard for business analytics featuring KPI tracking, dynamic filtering, and insightful visualizations.
+
+Highlights
+
+- Interactive Charts
+- Business Intelligence
+- Dashboard Design
+- Data Cleaning
+- Exploratory Data Analysis
 
 ---
 
-⭐ *Building impactful tech experiences through design, data, and development.*s: she/her
+## 🧠 Residential Energy Consumption Forecasting
+
+**Solvion Technologies Internship**
+
+Designed and trained deep learning models to forecast household energy consumption using historical time-series data.
+
+Tech
+
+- TensorFlow
+- Keras
+- LSTM
+- Simple RNN
+- NumPy
+- Pandas
+
+Highlights
+
+- Sliding Window Generation
+- Time Series Forecasting
+- Model Comparison
+- Performance Evaluation
+
+---
+
+## 💳 Credit Card Fraud Detection
+
+**Solvion Technologies Internship**
+
+Developed machine learning and deep learning models to identify fraudulent transactions on highly imbalanced datasets.
+
+Tech
+
+- ANN
+- CNN
+- Scikit-Learn
+- TensorFlow
+- SMOTE
+
+Highlights
+
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Fraud Prediction
+
+---
+
+## 🌊 Ocean Analysis
+
+🏆 Ranked **Top 5 among 400+ teams**
+
+Developed a data-driven solution focused on ocean intelligence during a national hackathon.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+```text
+Python • Java • JavaScript • SQL • HTML • CSS
+```
+
+## AI / Machine Learning
+
+```text
+PyTorch
+TensorFlow
+Scikit-Learn
+Pandas
+NumPy
+Transformers
+Sentence Transformers
+FAISS
+LLMs
+RAG
+Prompt Engineering
+```
+
+## Backend
+
+```text
+FastAPI
+Django
+REST APIs
+PostgreSQL
+MySQL
+SQLite
+```
+
+## Frontend
+
+```text
+React
+Streamlit
+Bootstrap
+HTML5
+CSS3
+JavaScript
+```
+
+## Analytics
+
+```text
+Power BI
+Excel
+Plotly
+Matplotlib
+Business Analytics
+EDA
+Dashboarding
+```
+
+## Tools
+
+```text
+Git
+GitHub
+Docker
+Postman
+VS Code
+Vercel
+Netlify
+```
+
+---
+
+# 🌱 Currently Learning
+
+- Deep Learning
+- System Design
+- Distributed Systems
+- Cloud Computing
+- Kubernetes
+- Advanced Backend Engineering
+- Production AI Systems
+
+---
+
+# 📈 GitHub Goals
+
+- Build production-ready AI applications
+- Contribute to Open Source
+- Ship impactful SaaS products
+- Learn scalable system design
+- Publish technical articles
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: **12ananyamoharana34@email.com**
+
+💼 LinkedIn: **https://linkedin.com/in/ananya-moharana**
 
 
-<!---
-yoyostuu/yoyostuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+
+### "Turning ideas into intelligent software."
+
+⭐ Thanks for visiting my profile!
+
+</div>
+> *"I don't just build projects—I build products that solve problems."- Ananya Moharana*
