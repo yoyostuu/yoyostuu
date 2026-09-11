@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ananya Moharana 👋
+# Hi, I'm Ananya Moharana 
 
 ### AI/ML Engineer • Full-Stack Developer • Data Analyst
 
